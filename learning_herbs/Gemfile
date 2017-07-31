@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+# Specify your gem's dependencies in learning_herbs.gemspec
+gemspec
+
+```ruby
+gem 'learning_herbs'
+```
